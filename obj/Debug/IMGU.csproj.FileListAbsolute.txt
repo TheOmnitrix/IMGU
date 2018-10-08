@@ -1,0 +1,10 @@
+C:\Users\Universidad\source\repos\IMGU\IMGU\bin\Debug\IMGU.exe.config
+C:\Users\Universidad\source\repos\IMGU\IMGU\bin\Debug\IMGU.exe
+C:\Users\Universidad\source\repos\IMGU\IMGU\bin\Debug\IMGU.pdb
+C:\Users\Universidad\source\repos\IMGU\IMGU\obj\Debug\IMGU.csprojAssemblyReference.cache
+C:\Users\Universidad\source\repos\IMGU\IMGU\obj\Debug\IMGU.Form1.resources
+C:\Users\Universidad\source\repos\IMGU\IMGU\obj\Debug\IMGU.Properties.Resources.resources
+C:\Users\Universidad\source\repos\IMGU\IMGU\obj\Debug\IMGU.csproj.GenerateResource.cache
+C:\Users\Universidad\source\repos\IMGU\IMGU\obj\Debug\IMGU.csproj.CoreCompileInputs.cache
+C:\Users\Universidad\source\repos\IMGU\IMGU\obj\Debug\IMGU.exe
+C:\Users\Universidad\source\repos\IMGU\IMGU\obj\Debug\IMGU.pdb
